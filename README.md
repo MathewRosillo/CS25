@@ -1,19 +1,25 @@
 # CS25-week5
 Info
+
 Module 6
+
 code
 Creates a class called item that can hold an item with variables name and quantity
 This class also has the ability to save the item (name and quantity) to a file and to load (display contents) items from a file as well
 
+
 Main
 You can see this demonstrated in main when I create an item named screwdriver with quantity 10 and save it to file then load it out of the file
+
 
 Display
 After the code runs you see "Item saved to file" displayed to your screen as well as the tool I saved's content in the format of: "file content: name, quantity"
 
 
 
+
 Module 11
+
 code
 Create a class called Product with
 Private attributes: id, name, and price
