@@ -21,7 +21,7 @@ saveTransaction method to save each transaction to a file (when called the trans
 
 Main
 
-An instnce of BankAccount is created
+An instance of BankAccount is created
 A deposit of $100 is then made followed by two purchases. 
 At the end the final balance is displayed.
 
