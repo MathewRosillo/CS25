@@ -23,7 +23,7 @@ Main
 
 An instance of BankAccount is created
 A deposit of $100 is then made followed by two purchases. 
-At the end the final balance is displayed.
+At the end the final balance is calleed to be displayed.
 
 ---------------------------------------------------------------------
 
