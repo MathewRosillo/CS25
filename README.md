@@ -1,7 +1,8 @@
 # CS25 week 8
 
 CODE
----------------------------------------------------------------------
+
+
 Class
 
 A class called Bank account is created with 1 variable (balance) and 4 methods
