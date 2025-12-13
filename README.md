@@ -1,5 +1,6 @@
 # CS25 week 8
-(IMPORTANT NOTE: Im not using my laptop so my terminal will say my moms name)
+(IMPORTANT NOTE: Im not using my laptop so my terminal will say my moms name in the pdf)
+
 CODE
 
 
