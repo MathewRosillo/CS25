@@ -23,4 +23,4 @@ If the middle item is smaller than the target ID the right half is searched
 
 If the middle item is larger than the target ID the right half is searched
 
-The search array keeps getting split in half until either the middle item is either the target ID and the index is returned or the target ID is not found and the fxn returns -1.
+The array keeps getting split in half until either the middle item is either the target ID and the index is returned or the target ID is not found and the fxn returns -1.
