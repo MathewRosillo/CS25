@@ -1,5 +1,5 @@
 # CS25 week 8
-
+(IMPORTANT NOTE: Im not using my laptop so my terminal will say my moms name)
 CODE
 
 
